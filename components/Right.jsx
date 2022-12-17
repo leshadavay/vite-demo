@@ -3,7 +3,7 @@ import ProgressBar from "./ProgressBar";
 
 const Right = () => {
   return (
-    <div className="slide w-100">
+    <div className="slide w-100" data-aos="zoom-out-left">
       <div className="slide-body">
         <div className="header-title text-uppercase">OVERALL SCORE</div>
         <div className="d-flex justify-content-between mt-5">
