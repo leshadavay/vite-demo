@@ -1,0 +1,137 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #f5f5f5;
+}
+.bg-default {
+  background: #f5f5f5;
+}
+.container {
+  max-width: 842px;
+}
+
+.column-gap-15 {
+  column-gap: 15px;
+}
+.column-gap-10 {
+  column-gap: 15px;
+}
+.column-gap-30 {
+  column-gap: 30px;
+}
+.slide {
+  max-width: 350px;
+  height: 470px;
+  background: #ffffff;
+  border-radius: 6.48649px;
+  margin: 15px;
+}
+.slide > .slide-body {
+  padding: 25px 22px;
+}
+.slide > .slide-body > .header-title {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+}
+.sub-title {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 14px;
+}
+.sub-title-description {
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 10px;
+}
+.bg-green {
+  background-color: #3cda73;
+}
+.bg-green-dark {
+  background-color: #006b3d;
+}
+.bg-yellow {
+  background-color: #ffca2d;
+}
+.bg-red {
+  background-color: #ff2a3a;
+}
+.bg-light-gray {
+  background-color: #f7f8fa;
+}
+.text-green {
+  color: #3cda73;
+}
+.text-dark-green {
+  color: #006b3d;
+}
+.text-yellow {
+  color: #ffca2d;
+}
+.text-red {
+  color: #ff2a3a;
+}
+.text-light-bold {
+  font-weight: 500;
+  font-size: 12;
+  line-height: 15px;
+}
+.text-bolder {
+  font-weight: 800;
+  font-size: 12;
+  line-height: 15px;
+}
+.text-xlarge {
+  font-size: 34px;
+  font-weight: 600;
+  line-height: 41px;
+}
+.border-radius-normal {
+  border-radius: 3.24324px;
+}
+
+.border-radius-bigger {
+  border-radius: 9.08108px;
+}
+.border-bottom-green {
+  border-bottom: 1px solid #3cda73;
+}
+.border-bottom-yellow {
+  border-bottom: 1px solid #ffca2d;
+}
+.border-bottom-red {
+  border-bottom: 1px solid #ff2a3a;
+}
+.bar-height-normal {
+  height: 13px;
+}
+.bar-width-normal {
+  width: 12px;
+}
+.border-left-none {
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
+.number-box {
+  width: 28.11px;
+  height: 28px;
+}
+.arrow {
+  border: solid #3cda73;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 5px;
+}
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+.vertical-red-line {
+  border-bottom: 1px solid #ff2a3a;
+  width: 35%;
+  height: 1px;
+  z-index: 9;
+  transform: rotate(90deg);
+  top: -5px;
+  left: 55px;
+}
