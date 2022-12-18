@@ -3,7 +3,7 @@ import ProgressBar from "./ProgressBar";
 
 const Left = () => {
   return (
-    <div className="slide" data-aos="fade-up">
+    <div className="slide w-100" data-aos="fade-up">
       <div className="slide-body">
         <div className="header-title text-uppercase">
           SHARIAH COMPLIANCE <br />
