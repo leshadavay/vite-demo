@@ -111,7 +111,7 @@ const Right = () => {
             </div>
 
             <div className="align-items-center d-flex position-relative w-100">
-              <ProgressBar type={"bg-green border-left-none"} width={60} />
+              <ProgressBar type={"bg-yellow border-left-none"} width={60} />
             </div>
           </div>
         </div>
